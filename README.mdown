@@ -1,0 +1,3 @@
+# berto-seed
+
+This is a seed for TS applications that I enjoy. Comes with mocha and ts set up.
